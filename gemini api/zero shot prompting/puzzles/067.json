@@ -1,0 +1,30 @@
+{
+    "initial_string": "1cqhhh<<bhh<1gfgqa<1cjqrqhg1gfgqa<1coh<<bhg<bhg<bhg1gfgqa<1coh<1gfgqa<1cjqrqhg1cqhhg<bhg1h<fgqa<1gfgqa<oh<",
+    "problem_id": "067",
+    "transitions": [
+        {
+            "src": "<bhg",
+            "tgt": ""
+        },
+        {
+            "src": "1cqh",
+            "tgt": "<b"
+        },
+        {
+            "src": "1cjqrq",
+            "tgt": "qh"
+        },
+        {
+            "src": "o",
+            "tgt": "jqrqh"
+        },
+        {
+            "src": "h<",
+            "tgt": "g"
+        },
+        {
+            "src": "gfgqa<",
+            "tgt": "c"
+        }
+    ]
+}

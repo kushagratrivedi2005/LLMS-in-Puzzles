@@ -1,0 +1,66 @@
+{
+    "initial_string": "j>ajiha<giha<giha11i1h",
+    "problem_id": "055",
+    "transitions": [
+        {
+            "src": "<giha",
+            "tgt": ""
+        },
+        {
+            "src": ">",
+            "tgt": "ih"
+        },
+        {
+            "src": "j>2c",
+            "tgt": "<g>a"
+        },
+        {
+            "src": "0f12e2",
+            "tgt": "j>2c"
+        },
+        {
+            "src": "fd>a2",
+            "tgt": "2e"
+        },
+        {
+            "src": "j",
+            "tgt": "1fd"
+        },
+        {
+            "src": "??",
+            "tgt": "fj>a22"
+        },
+        {
+            "src": "dcb",
+            "tgt": "0??"
+        },
+        {
+            "src": "2",
+            "tgt": "d"
+        },
+        {
+            "src": "jhjf<g",
+            "tgt": "2cb"
+        },
+        {
+            "src": "g",
+            "tgt": "f"
+        },
+        {
+            "src": "i",
+            "tgt": "jhj"
+        },
+        {
+            "src": "j",
+            "tgt": "<g"
+        },
+        {
+            "src": "hc1i1h",
+            "tgt": "igj"
+        },
+        {
+            "src": "1",
+            "tgt": "hc"
+        }
+    ]
+}

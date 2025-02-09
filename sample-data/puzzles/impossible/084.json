@@ -1,0 +1,406 @@
+{
+    "initial_string": "epq3k<1ia?@ehu9suq72gh09?t59ra<cr54mo2dyyu<wo6xydyiituwss4b?0c0gpzaoituws0cd1cpik142gu<2cpn@qez6pcmoi5sys6gdcj8vwngzs@e8dxyuw5?9?at<9j01m!>i4ci9d27dy6bwy3b9rqni79",
+    "problem_id": "084",
+    "transitions": [
+        {
+            "src": "epq3k",
+            "tgt": ""
+        },
+        {
+            "src": "bvqy?k2",
+            "tgt": "epq3k"
+        },
+        {
+            "src": "a9?i2fdi5",
+            "tgt": "bvqy?"
+        },
+        {
+            "src": "4unmafmm7",
+            "tgt": "2fdi"
+        },
+        {
+            "src": "t59ra<cy",
+            "tgt": "i4unmafmm"
+        },
+        {
+            "src": "r54m69",
+            "tgt": "y75"
+        },
+        {
+            "src": "25dvr<q",
+            "tgt": "a9?t59ra"
+        },
+        {
+            "src": "!q9y",
+            "tgt": "r<q<cr54"
+        },
+        {
+            "src": "kdvmm",
+            "tgt": "dv!q"
+        },
+        {
+            "src": "@cz8",
+            "tgt": "m9y"
+        },
+        {
+            "src": "o2dyyu<wo",
+            "tgt": "69k2"
+        },
+        {
+            "src": "f4twjd3",
+            "tgt": "cz8mo2"
+        },
+        {
+            "src": "rvpe<",
+            "tgt": "5kdvm@"
+        },
+        {
+            "src": "jdbyvnm?",
+            "tgt": "wjd3dyyu<"
+        },
+        {
+            "src": "<69n",
+            "tgt": "jdb"
+        },
+        {
+            "src": "6n!",
+            "tgt": "rvpe"
+        },
+        {
+            "src": "yre3<2zu",
+            "tgt": "6n!<f4t<"
+        },
+        {
+            "src": "xjem!99?v",
+            "tgt": "69nyv"
+        },
+        {
+            "src": "j7u08a",
+            "tgt": "!99?vnm"
+        },
+        {
+            "src": "c>do",
+            "tgt": "7u0"
+        },
+        {
+            "src": "skmadm<8v",
+            "tgt": "xjemjc>"
+        },
+        {
+            "src": "",
+            "tgt": "do8a?wo"
+        },
+        {
+            "src": "vl?!0",
+            "tgt": "re3<2zu"
+        },
+        {
+            "src": "w98?nxnp",
+            "tgt": "a?w"
+        },
+        {
+            "src": "",
+            "tgt": "n"
+        },
+        {
+            "src": "@0<z",
+            "tgt": "8?nx"
+        },
+        {
+            "src": "",
+            "tgt": "!0skmadm"
+        },
+        {
+            "src": "xdqz53",
+            "tgt": "znpo"
+        },
+        {
+            "src": "",
+            "tgt": "w9@0<x"
+        },
+        {
+            "src": "dk99rqni",
+            "tgt": "l"
+        },
+        {
+            "src": "vlhg",
+            "tgt": "9@0<x"
+        },
+        {
+            "src": "m?u9e",
+            "tgt": "rqni?!0s"
+        },
+        {
+            "src": "0wjw6qq>5",
+            "tgt": "vlhgdqz5"
+        },
+        {
+            "src": "8of",
+            "tgt": "o8w0wj"
+        },
+        {
+            "src": "4uf5",
+            "tgt": "3"
+        },
+        {
+            "src": "",
+            "tgt": "ofw6qq>5"
+        },
+        {
+            "src": "vwngzs",
+            "tgt": "4uf5"
+        },
+        {
+            "src": "ec6x2f?e",
+            "tgt": "?u9ekmad"
+        },
+        {
+            "src": "!s3?ymc",
+            "tgt": "6qq>5vwn"
+        },
+        {
+            "src": "",
+            "tgt": "6x2f?"
+        },
+        {
+            "src": "27<keo0p",
+            "tgt": "d8of"
+        },
+        {
+            "src": "y6bwy3b",
+            "tgt": "k9"
+        },
+        {
+            "src": "k18",
+            "tgt": "9mec6x2f"
+        },
+        {
+            "src": "",
+            "tgt": "6bwy3bk"
+        },
+        {
+            "src": "ljck",
+            "tgt": "2y"
+        },
+        {
+            "src": "9gzi7",
+            "tgt": "8?em<8"
+        },
+        {
+            "src": "onkoszud",
+            "tgt": "7v27<ke"
+        },
+        {
+            "src": "cwhnxh",
+            "tgt": "vdy6bw"
+        },
+        {
+            "src": ">t7kgt",
+            "tgt": "xhy3"
+        },
+        {
+            "src": "",
+            "tgt": "onk"
+        },
+        {
+            "src": "",
+            "tgt": "whn>t7"
+        },
+        {
+            "src": "gfav6bztq",
+            "tgt": "zionkoszu"
+        },
+        {
+            "src": "<dm8q4sa<",
+            "tgt": "a"
+        },
+        {
+            "src": "a8q",
+            "tgt": "n>t7kgtbk"
+        },
+        {
+            "src": "il2gh0",
+            "tgt": "dm8q4sa<"
+        },
+        {
+            "src": "s9x1u@",
+            "tgt": "l"
+        },
+        {
+            "src": "z7m0dzcs",
+            "tgt": "cg"
+        },
+        {
+            "src": "0c0",
+            "tgt": "j"
+        },
+        {
+            "src": "yiituws",
+            "tgt": "c"
+        },
+        {
+            "src": "fp0pnh",
+            "tgt": "3?ym"
+        },
+        {
+            "src": "",
+            "tgt": "wha"
+        },
+        {
+            "src": "q1?",
+            "tgt": "6bztqdo0"
+        },
+        {
+            "src": "pok<4a",
+            "tgt": "1u@0"
+        },
+        {
+            "src": "m67p",
+            "tgt": "fp"
+        },
+        {
+            "src": "1iav",
+            "tgt": "il"
+        },
+        {
+            "src": ">vhu9suq7",
+            "tgt": "v"
+        },
+        {
+            "src": "32wwzh!<9",
+            "tgt": "0dzcsz"
+        },
+        {
+            "src": "vc@8y161",
+            "tgt": "kcwh"
+        },
+        {
+            "src": "dc4r9?",
+            "tgt": "vc@8y1"
+        },
+        {
+            "src": "",
+            "tgt": "pnhz7m"
+        },
+        {
+            "src": "ksyydjrz",
+            "tgt": "s9xpok<4"
+        },
+        {
+            "src": "",
+            "tgt": "?61"
+        },
+        {
+            "src": "tgjoy",
+            "tgt": "uq72gh0vq"
+        },
+        {
+            "src": "1h2af@c",
+            "tgt": "pnhz7m32"
+        },
+        {
+            "src": "ppsys8",
+            "tgt": "9ggf<"
+        },
+        {
+            "src": "",
+            "tgt": "s"
+        },
+        {
+            "src": "",
+            "tgt": "ydjrzayi"
+        },
+        {
+            "src": "at<9j",
+            "tgt": "?pw!sm67p"
+        },
+        {
+            "src": "438",
+            "tgt": "yyd"
+        },
+        {
+            "src": "",
+            "tgt": "61"
+        },
+        {
+            "src": "?@e",
+            "tgt": ">v"
+        },
+        {
+            "src": "lk4g1>9?",
+            "tgt": "9stgjoy1"
+        },
+        {
+            "src": "6gdcj83",
+            "tgt": "81ia?"
+        },
+        {
+            "src": "pspn7l79",
+            "tgt": "zh!<9s"
+        },
+        {
+            "src": "",
+            "tgt": "s0"
+        },
+        {
+            "src": "8d5w",
+            "tgt": "hulk4g1"
+        },
+        {
+            "src": "1cpikfc",
+            "tgt": "c4r9?"
+        },
+        {
+            "src": "9gvf9d2",
+            "tgt": "wwpspn"
+        },
+        {
+            "src": "b?jgpzao",
+            "tgt": "38jrzayi"
+        },
+        {
+            "src": "ntci",
+            "tgt": "9gvf"
+        },
+        {
+            "src": "m!>i4",
+            "tgt": "h2af@cnt"
+        },
+        {
+            "src": "u<2cpn@",
+            "tgt": "8"
+        },
+        {
+            "src": "",
+            "tgt": "9d27"
+        },
+        {
+            "src": "",
+            "tgt": "1ppsys6"
+        },
+        {
+            "src": "",
+            "tgt": "d"
+        },
+        {
+            "src": "",
+            "tgt": "?at"
+        },
+        {
+            "src": "6xydcs",
+            "tgt": "ks"
+        },
+        {
+            "src": "142g",
+            "tgt": "fc61a"
+        },
+        {
+            "src": "ez6pcmoi5",
+            "tgt": "1pp"
+        },
+        {
+            "src": "xyuw5?",
+            "tgt": "5w>"
+        }
+    ]
+}

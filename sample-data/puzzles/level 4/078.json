@@ -1,0 +1,18 @@
+{
+    "initial_string": "bbbcccbcbcccbccccbccccbccccbcbbcccbcbbbcccbcbbbcccbcbcccbccccbcbbcccbcbcccbcbbcccbcbbbcccbcbbbbcccbcbcccbcbbcccbcbbbcccbcbcccbccccbcbbcccbcbcccbcbbcccbcbbbcccbcbcccbcbbcccbcbcccbcbcccbccccbcbbcccbcbcccbccccbcbbcccbcbbbcccbcbbcccbcbbcccbcbcccbccccbcbbcccbcbbbcccbcbbbcccbcbcccbccccbccccbc",
+    "problem_id": "078",
+    "transitions": [
+        {
+            "src": "bbbcccbc",
+            "tgt": ""
+        },
+        {
+            "src": "b",
+            "tgt": "bbbcccbc"
+        },
+        {
+            "src": "bcccbc",
+            "tgt": "b"
+        }
+    ]
+}

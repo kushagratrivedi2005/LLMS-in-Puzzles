@@ -1,0 +1,30 @@
+{
+    "initial_string": "<>nlnttgmhmmn><>nlnr><>nln><>nlnrr>goicmmn<>nln<>nln",
+    "problem_id": "068",
+    "transitions": [
+        {
+            "src": "r",
+            "tgt": ""
+        },
+        {
+            "src": "ttgnf",
+            "tgt": "r"
+        },
+        {
+            "src": "mhmmn",
+            "tgt": "nf"
+        },
+        {
+            "src": ">goic",
+            "tgt": "ttgmh"
+        },
+        {
+            "src": "<>nl",
+            "tgt": "goicmm"
+        },
+        {
+            "src": "",
+            "tgt": ">"
+        }
+    ]
+}

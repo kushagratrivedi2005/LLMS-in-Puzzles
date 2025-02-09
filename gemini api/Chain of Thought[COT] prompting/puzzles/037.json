@@ -1,0 +1,26 @@
+{
+    "initial_string": "<0<0>>x><",
+    "problem_id": "037",
+    "transitions": [
+        {
+            "src": "<0",
+            "tgt": ""
+        },
+        {
+            "src": "1z0",
+            "tgt": "<0"
+        },
+        {
+            "src": "0",
+            "tgt": "0"
+        },
+        {
+            "src": "x>yz",
+            "tgt": "1z0"
+        },
+        {
+            "src": ">>x><",
+            "tgt": "x>yz"
+        }
+    ]
+}

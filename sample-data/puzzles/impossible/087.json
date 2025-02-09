@@ -1,0 +1,86 @@
+{
+    "initial_string": "!g@7j6hij8!gbxqgzehn>fshq!pan45f5!gbx<<hq!pan9bhqr4<<hq!pan9gz?t8sx!g@7j6hij8!gbxqgzehn>fshq!pan?t8sx45f5!gbxqgzehn>fshq!pan!g@7j6hij8!gbxqgzehn>fshq!panjjsm0!g@7j6hij8!gbxqgzehn>fshq!pand!ysmy@7<rb2>5yh!xwyha0<rb2>5yh!!g@7j6hij8!gbxqgzehn>fshq!pan45f5!gbx<<hq!pan9bhqr4<<hq!pan!g@7j6hij8!gbxqgzehn>fshq!pan9bhqrfeaxwyha0xb>9td6ij0!g@7j6hij8!gbx<<hq!pan<rb2>5yh!kbutbd<8<rb2>5yh!!g@7j6hij8!gbxqgzehn>fshq!pan45f5!gbx<<hq!pan9bhqrfeaxwyha0?t8sx<rb2>5yh!!g@7j6hij8!gbxqgzehn>fshq!pan<rb2>5yh!45f5!gbx<<hq!pan9bhqrfea<rb2>5yh!xwyha0f0v@34n2zb8!g@7j6hij8!gbxqgzehn>fshq!pan",
+    "problem_id": "087",
+    "transitions": [
+        {
+            "src": "<rb2>5yh!",
+            "tgt": ""
+        },
+        {
+            "src": "",
+            "tgt": "2>5y"
+        },
+        {
+            "src": "d!ysmy@7",
+            "tgt": "<rb2>5yh!"
+        },
+        {
+            "src": "",
+            "tgt": "my@"
+        },
+        {
+            "src": "jjsm0",
+            "tgt": "d!ysmy@7"
+        },
+        {
+            "src": "<5q8<56",
+            "tgt": "jjsm0"
+        },
+        {
+            "src": "?t8sx",
+            "tgt": "<5q8<56"
+        },
+        {
+            "src": "o7mh?xjzv8",
+            "tgt": "?t8sx"
+        },
+        {
+            "src": "evwhb2zb",
+            "tgt": "xjzv"
+        },
+        {
+            "src": "f0v@34n",
+            "tgt": "o7mh?evwhb"
+        },
+        {
+            "src": "kbutbd<",
+            "tgt": "f0v@34n2zb"
+        },
+        {
+            "src": "9gz",
+            "tgt": "kbutbd<8"
+        },
+        {
+            "src": "xb>9td6ij0",
+            "tgt": "9gz"
+        },
+        {
+            "src": "wyha",
+            "tgt": "b>9td6ij"
+        },
+        {
+            "src": "",
+            "tgt": "xwyha0"
+        },
+        {
+            "src": "9bhqrfea",
+            "tgt": ""
+        },
+        {
+            "src": "4<<hq!pan",
+            "tgt": "fea"
+        },
+        {
+            "src": "45f5!gbx",
+            "tgt": "9bhqr4"
+        },
+        {
+            "src": "qgzehn>fs",
+            "tgt": "<<"
+        },
+        {
+            "src": "!g@7j6hij8",
+            "tgt": "45f5"
+        }
+    ]
+}

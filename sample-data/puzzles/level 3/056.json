@@ -1,0 +1,22 @@
+{
+    "initial_string": "feb>ae?dae?df0ijcae?dfeb>1>?cae?dae?df0ijc1>?cae?d1>?c1>?cae?d",
+    "problem_id": "056",
+    "transitions": [
+        {
+            "src": "1>?c",
+            "tgt": ""
+        },
+        {
+            "src": "f0ij",
+            "tgt": "1>?"
+        },
+        {
+            "src": "eb>",
+            "tgt": "0ijc"
+        },
+        {
+            "src": "ae?d",
+            "tgt": "feb>"
+        }
+    ]
+}

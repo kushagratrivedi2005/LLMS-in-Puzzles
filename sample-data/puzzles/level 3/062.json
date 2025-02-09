@@ -1,0 +1,66 @@
+{
+    "initial_string": "b<c<2?acebb<1ie02cdb?a",
+    "problem_id": "062",
+    "transitions": [
+        {
+            "src": "2cdb",
+            "tgt": ""
+        },
+        {
+            "src": "20gga",
+            "tgt": "2cd"
+        },
+        {
+            "src": "0ef",
+            "tgt": "0ggab"
+        },
+        {
+            "src": "g",
+            "tgt": "0e"
+        },
+        {
+            "src": "2",
+            "tgt": "g"
+        },
+        {
+            "src": "b>",
+            "tgt": "2gf"
+        },
+        {
+            "src": "<1ie0",
+            "tgt": ">"
+        },
+        {
+            "src": "c<>jc",
+            "tgt": "1"
+        },
+        {
+            "src": "2jiceb",
+            "tgt": ">jcie0"
+        },
+        {
+            "src": ">",
+            "tgt": "b<c<2j"
+        },
+        {
+            "src": ">",
+            "tgt": ">iceb"
+        },
+        {
+            "src": "ji",
+            "tgt": ">"
+        },
+        {
+            "src": ">d",
+            "tgt": "ji"
+        },
+        {
+            "src": "h",
+            "tgt": ">d"
+        },
+        {
+            "src": "?a",
+            "tgt": "h"
+        }
+    ]
+}

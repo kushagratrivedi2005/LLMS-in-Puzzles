@@ -1,0 +1,18 @@
+{
+    "initial_string": "chebdcdgbcdgbacifebd",
+    "problem_id": "020",
+    "transitions": [
+        {
+            "src": "cdgb",
+            "tgt": ""
+        },
+        {
+            "src": "hebd",
+            "tgt": "dgb"
+        },
+        {
+            "src": "acif",
+            "tgt": "ch"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "initial_string": "0z1x>yyz1x><x001",
+    "problem_id": "034",
+    "transitions": [
+        {
+            "src": "0z1x>",
+            "tgt": ""
+        },
+        {
+            "src": "0y10",
+            "tgt": "0z1x>"
+        },
+        {
+            "src": "1z<z",
+            "tgt": "10"
+        },
+        {
+            "src": "<1<",
+            "tgt": "0y1z<"
+        },
+        {
+            "src": "0",
+            "tgt": "<1<z"
+        },
+        {
+            "src": "yy",
+            "tgt": "0"
+        },
+        {
+            "src": "0",
+            "tgt": "y"
+        },
+        {
+            "src": "zyx1",
+            "tgt": "0y"
+        },
+        {
+            "src": "1",
+            "tgt": "zyx1"
+        },
+        {
+            "src": "<x001",
+            "tgt": "1"
+        }
+    ]
+}

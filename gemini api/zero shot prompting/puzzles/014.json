@@ -1,0 +1,18 @@
+{
+    "initial_string": "cfgcfghgfjfj",
+    "problem_id": "014",
+    "transitions": [
+        {
+            "src": "cfg",
+            "tgt": ""
+        },
+        {
+            "src": "h",
+            "tgt": "cf"
+        },
+        {
+            "src": "fj",
+            "tgt": "hg"
+        }
+    ]
+}

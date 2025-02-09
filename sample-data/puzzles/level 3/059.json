@@ -1,0 +1,74 @@
+{
+    "initial_string": "fa0>ge?11?<ifiiejcj0c10bdf2c",
+    "problem_id": "059",
+    "transitions": [
+        {
+            "src": "<ifi",
+            "tgt": ""
+        },
+        {
+            "src": "?",
+            "tgt": "<ifi"
+        },
+        {
+            "src": ">>>",
+            "tgt": "?"
+        },
+        {
+            "src": "??0",
+            "tgt": ">>>"
+        },
+        {
+            "src": "e?1",
+            "tgt": "??0"
+        },
+        {
+            "src": "?1hag",
+            "tgt": "e?1"
+        },
+        {
+            "src": "c",
+            "tgt": "h"
+        },
+        {
+            "src": "0h",
+            "tgt": "1c"
+        },
+        {
+            "src": "iej",
+            "tgt": "?0hag"
+        },
+        {
+            "src": "fa0>g",
+            "tgt": "e"
+        },
+        {
+            "src": "2bfe",
+            "tgt": "ifa"
+        },
+        {
+            "src": "ahcj",
+            "tgt": "bf"
+        },
+        {
+            "src": "f1cc",
+            "tgt": "2ahcj"
+        },
+        {
+            "src": "cj",
+            "tgt": "f1cce"
+        },
+        {
+            "src": "bbd22c",
+            "tgt": ">gj"
+        },
+        {
+            "src": "c10",
+            "tgt": "b"
+        },
+        {
+            "src": "f",
+            "tgt": "2"
+        }
+    ]
+}

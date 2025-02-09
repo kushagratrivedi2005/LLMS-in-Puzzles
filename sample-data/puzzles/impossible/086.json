@@ -1,0 +1,106 @@
+{
+    "initial_string": "q3<nih9vakphufr!3mvwva7fu3uma2zhb@juu7riecl2ypjrxjj?oc<w!21fxma2zhb@juu7riecl2ypjrxjj?oc<w1hljw!s9wsa<enefx?oc<w1hl8ljxzhn>ukma2zhb@juu7rie?oc<w1hl8ljxma2zhb@juu7riema2zhb@juu7rie@k9kelrma2zhb@juu7rie@k9kelrq3<nr!3mvwva7fu3ur!3mvwva7fu3uma2zhb@juu7riema2zhb@juu7rieq3<n?oc<w1hl8ljxr!3mvwva7fu3u@k9kelrma2zhb@juu7riezhn>ukq3<nma2zhb@juu7rieza>j@nfma2zhb@juu7riemk<0ziy!oma2zhb@juu7riezhn>ukq3<nma2zhb@juu7riema2zhb@juu7rier!3mvwva7fu3uma2zhb@juu7riemk<abjkihc9mc9uk8r!3mvwva7fu3uma2zhb@juu7rie",
+    "problem_id": "086",
+    "transitions": [
+        {
+            "src": "@nf",
+            "tgt": ""
+        },
+        {
+            "src": "za>j",
+            "tgt": "@nf"
+        },
+        {
+            "src": "",
+            "tgt": "j"
+        },
+        {
+            "src": "zhn>uk",
+            "tgt": "za>j"
+        },
+        {
+            "src": "?oc<w1hl8ljx",
+            "tgt": "zhn>uk"
+        },
+        {
+            "src": "jw!s9wsa<enef",
+            "tgt": "8lj"
+        },
+        {
+            "src": "!21",
+            "tgt": "1hljw!s9wsa<ene"
+        },
+        {
+            "src": "ih9vakphuf",
+            "tgt": "?oc<w!21fx"
+        },
+        {
+            "src": ">uz0@x",
+            "tgt": "ih9vakphuf"
+        },
+        {
+            "src": "!n@ht",
+            "tgt": ">uz0@x"
+        },
+        {
+            "src": "9lhov",
+            "tgt": "!n@ht"
+        },
+        {
+            "src": "cl2ypjrxjj",
+            "tgt": "9lhov"
+        },
+        {
+            "src": "8@k!8o>>!53?",
+            "tgt": "l2ypjrxjj"
+        },
+        {
+            "src": "l88uyx2y8q<beb8",
+            "tgt": "c8@k!8o>>!53?"
+        },
+        {
+            "src": "mk<ab!d20vt",
+            "tgt": "l88uyx2y8q<beb"
+        },
+        {
+            "src": "jke?9uble>quju",
+            "tgt": "!d2"
+        },
+        {
+            "src": "ihc9mc9uk",
+            "tgt": "e?9uble>quju0vt"
+        },
+        {
+            "src": "<0zr",
+            "tgt": "<abjkihc9mc9uk"
+        },
+        {
+            "src": "iy!o",
+            "tgt": "r8"
+        },
+        {
+            "src": "",
+            "tgt": "mk<0ziy!o"
+        },
+        {
+            "src": "r!3mvwva7fu3u",
+            "tgt": ""
+        },
+        {
+            "src": "q3<n",
+            "tgt": "r!3mvwva7fu3u"
+        },
+        {
+            "src": "@k9kelr",
+            "tgt": "q3<n"
+        },
+        {
+            "src": "",
+            "tgt": "@k9kelr"
+        },
+        {
+            "src": "ma2zhb@juu7rie",
+            "tgt": ""
+        }
+    ]
+}

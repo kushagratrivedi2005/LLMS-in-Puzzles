@@ -1,0 +1,38 @@
+{
+    "initial_string": "bbcb",
+    "problem_id": "091",
+    "transitions": [
+        {
+            "src": "bb",
+            "tgt": ""
+        },
+        {
+            "src": "cb",
+            "tgt": "bb"
+        },
+        {
+            "src": "bb",
+            "tgt": "cb"
+        },
+        {
+            "src": "bb",
+            "tgt": "bb"
+        },
+        {
+            "src": "cc",
+            "tgt": "bb"
+        },
+        {
+            "src": "ca",
+            "tgt": "cc"
+        },
+        {
+            "src": "cb",
+            "tgt": "ca"
+        },
+        {
+            "src": "cb",
+            "tgt": "cb"
+        }
+    ]
+}

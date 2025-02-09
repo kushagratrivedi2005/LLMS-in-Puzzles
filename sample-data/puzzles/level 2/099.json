@@ -1,0 +1,38 @@
+{
+    "initial_string": "bbccdcfebbdb",
+    "problem_id": "099",
+    "transitions": [
+        {
+            "src": "b",
+            "tgt": ""
+        },
+        {
+            "src": "fa",
+            "tgt": "b"
+        },
+        {
+            "src": "ea",
+            "tgt": "fa"
+        },
+        {
+            "src": "febb",
+            "tgt": "a"
+        },
+        {
+            "src": "cd",
+            "tgt": "f"
+        },
+        {
+            "src": "c",
+            "tgt": "de"
+        },
+        {
+            "src": "aad",
+            "tgt": "deb"
+        },
+        {
+            "src": "cfc",
+            "tgt": "eca"
+        }
+    ]
+}

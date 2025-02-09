@@ -1,0 +1,22 @@
+{
+    "initial_string": "baa",
+    "problem_id": "009",
+    "transitions": [
+        {
+            "src": "a",
+            "tgt": ""
+        },
+        {
+            "src": "ab",
+            "tgt": "a"
+        },
+        {
+            "src": "ba",
+            "tgt": "ab"
+        },
+        {
+            "src": "aa",
+            "tgt": "a"
+        }
+    ]
+}

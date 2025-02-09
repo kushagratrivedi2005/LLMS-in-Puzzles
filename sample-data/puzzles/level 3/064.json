@@ -1,0 +1,18 @@
+{
+    "initial_string": "keb1lekeb1legcjedegcjedekeb1legcjkeb1lekeb1legcjkeb1lekeb1lekeb1legcj",
+    "problem_id": "064",
+    "transitions": [
+        {
+            "src": "keb1le",
+            "tgt": ""
+        },
+        {
+            "src": "ed",
+            "tgt": "keb1l"
+        },
+        {
+            "src": "gcj",
+            "tgt": "ede"
+        }
+    ]
+}

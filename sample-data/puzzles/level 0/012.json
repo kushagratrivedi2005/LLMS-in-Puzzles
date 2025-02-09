@@ -1,0 +1,18 @@
+{
+    "initial_string": "WORLDHELLO",
+    "problem_id": "012",
+    "transitions": [
+        {
+            "src": "WORLD",
+            "tgt": "HELLO"
+        },
+        {
+            "src": "HELLO",
+            "tgt": "WORLD"
+        },
+        {
+            "src": "HELLOWORLD",
+            "tgt": ""
+        }
+    ]
+}

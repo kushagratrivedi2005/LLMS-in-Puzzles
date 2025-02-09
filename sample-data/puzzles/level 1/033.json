@@ -1,0 +1,42 @@
+{
+    "initial_string": "a?bcc",
+    "problem_id": "033",
+    "transitions": [
+        {
+            "src": "1a",
+            "tgt": ""
+        },
+        {
+            "src": "?",
+            "tgt": "1a"
+        },
+        {
+            "src": "0",
+            "tgt": "?"
+        },
+        {
+            "src": "?a1",
+            "tgt": "0"
+        },
+        {
+            "src": "?ca",
+            "tgt": "?a1"
+        },
+        {
+            "src": "?1cc",
+            "tgt": "?ca"
+        },
+        {
+            "src": "a?",
+            "tgt": "?1"
+        },
+        {
+            "src": "a?",
+            "tgt": "?cc"
+        },
+        {
+            "src": "a?bc",
+            "tgt": "a?c"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "initial_string": "age2id<0<a2gcfage2idage2ida2gcfage2id<0<<0<a2gcfa2gcf<0<<0<<0<a2gcf",
+    "problem_id": "063",
+    "transitions": [
+        {
+            "src": "<0<",
+            "tgt": ""
+        },
+        {
+            "src": "age2id",
+            "tgt": "<0<"
+        },
+        {
+            "src": "2gcf",
+            "tgt": "ge2id"
+        }
+    ]
+}

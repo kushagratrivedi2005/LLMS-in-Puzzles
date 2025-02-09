@@ -1,0 +1,34 @@
+{
+    "initial_string": "2<faae2<faae1c<fj>?ie>?ie2<faae1c<f>?ie2<faae",
+    "problem_id": "058",
+    "transitions": [
+        {
+            "src": ">?ie",
+            "tgt": ""
+        },
+        {
+            "src": "<bf",
+            "tgt": ">?ie"
+        },
+        {
+            "src": "j",
+            "tgt": "<b"
+        },
+        {
+            "src": "0",
+            "tgt": "jf"
+        },
+        {
+            "src": "j",
+            "tgt": "0"
+        },
+        {
+            "src": "1c<",
+            "tgt": "j"
+        },
+        {
+            "src": "2<faae",
+            "tgt": "1c<"
+        }
+    ]
+}

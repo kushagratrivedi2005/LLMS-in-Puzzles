@@ -1,0 +1,30 @@
+{
+    "initial_string": "tj>mnggj>mnggj>mngtfr0gfhohgtj>mnggj>mngtj>mnggfr0gfhohgtj>mnggfr0gfhohggdbkhohg>hohg",
+    "problem_id": "066",
+    "transitions": [
+        {
+            "src": "tj>mng",
+            "tgt": ""
+        },
+        {
+            "src": "dbkhoh",
+            "tgt": "j>mn"
+        },
+        {
+            "src": "g",
+            "tgt": "t"
+        },
+        {
+            "src": "fr0gf",
+            "tgt": "dbk"
+        },
+        {
+            "src": ">",
+            "tgt": "gfr0gf"
+        },
+        {
+            "src": "",
+            "tgt": "hoh"
+        }
+    ]
+}

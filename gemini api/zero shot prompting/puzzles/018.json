@@ -1,0 +1,18 @@
+{
+    "initial_string": "aaecicicedbc",
+    "problem_id": "018",
+    "transitions": [
+        {
+            "src": "aaec",
+            "tgt": ""
+        },
+        {
+            "src": "i",
+            "tgt": "aae"
+        },
+        {
+            "src": "edbc",
+            "tgt": "ic"
+        }
+    ]
+}

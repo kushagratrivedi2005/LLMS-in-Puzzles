@@ -1,0 +1,406 @@
+{
+    "initial_string": "gi7vnjqiq7pv7ebsq8kak<x@tsmxgruns?r<dm3zl!xbskgnh5lo@<0hpdswcr>jsjum4yeft4p9huygpp@x5gaj0gu2b4u!cpve8n!fcmgt>vcm9dnqpsiw0gs",
+    "problem_id": "083",
+    "transitions": [
+        {
+            "src": "m3zl!xbsk",
+            "tgt": ""
+        },
+        {
+            "src": "c0n@rry8v",
+            "tgt": "zl!xbs"
+        },
+        {
+            "src": "7exp0z<",
+            "tgt": "m3c0"
+        },
+        {
+            "src": "!57j",
+            "tgt": "exp0z<n@r"
+        },
+        {
+            "src": "ckmjlz",
+            "tgt": "!57jry8"
+        },
+        {
+            "src": "7dc!",
+            "tgt": "7ckmjlz"
+        },
+        {
+            "src": "",
+            "tgt": "7dc"
+        },
+        {
+            "src": "zgmdvlpe",
+            "tgt": "!vk"
+        },
+        {
+            "src": "gzjf",
+            "tgt": "gmdv"
+        },
+        {
+            "src": "y7bb<htq1",
+            "tgt": "zgzjflpe"
+        },
+        {
+            "src": "gmo4b1q",
+            "tgt": "bb<ht"
+        },
+        {
+            "src": "lgj5af09k",
+            "tgt": "7gmo4b1qq"
+        },
+        {
+            "src": "fkiba55",
+            "tgt": "ylgj5af"
+        },
+        {
+            "src": "<jnn8<rv",
+            "tgt": "09k1"
+        },
+        {
+            "src": "shi",
+            "tgt": "5<jnn8<rv"
+        },
+        {
+            "src": "@92yr",
+            "tgt": "kiba5s"
+        },
+        {
+            "src": "f9wjqzm",
+            "tgt": "2yrhi"
+        },
+        {
+            "src": "",
+            "tgt": "f@9f9"
+        },
+        {
+            "src": "07!sn",
+            "tgt": "jqz"
+        },
+        {
+            "src": "3up??>>7d",
+            "tgt": "07!snm"
+        },
+        {
+            "src": "53fd1s0",
+            "tgt": "w3up?"
+        },
+        {
+            "src": "gibd5va6",
+            "tgt": "53fd"
+        },
+        {
+            "src": "qybvr",
+            "tgt": "a61s0?>>7"
+        },
+        {
+            "src": "y26<2",
+            "tgt": "5vqybv"
+        },
+        {
+            "src": "pwd",
+            "tgt": "y26<2"
+        },
+        {
+            "src": "r!k!yzsw",
+            "tgt": "bdpw"
+        },
+        {
+            "src": ">6lkt",
+            "tgt": "yzsw"
+        },
+        {
+            "src": "<a!1hvcmq",
+            "tgt": "lktdr"
+        },
+        {
+            "src": "wvnvj1",
+            "tgt": "1hvcmq"
+        },
+        {
+            "src": "7?>j7w6kr",
+            "tgt": "r!k!>6"
+        },
+        {
+            "src": "zk@9",
+            "tgt": ">j7w"
+        },
+        {
+            "src": "v4jmd",
+            "tgt": "?zk"
+        },
+        {
+            "src": "qyjpkpi<",
+            "tgt": "<a!wvnvj1"
+        },
+        {
+            "src": "bgyifjbfs",
+            "tgt": "@96kr"
+        },
+        {
+            "src": "gv7eb",
+            "tgt": "yifjbf"
+        },
+        {
+            "src": "kctd",
+            "tgt": "4jmdb"
+        },
+        {
+            "src": "",
+            "tgt": "i7vkctdg"
+        },
+        {
+            "src": "njqiq7p",
+            "tgt": "kctdgg"
+        },
+        {
+            "src": "xek@t?",
+            "tgt": "njq"
+        },
+        {
+            "src": "em7t70",
+            "tgt": "k@t?iq7"
+        },
+        {
+            "src": "f?us?1r",
+            "tgt": "pkp"
+        },
+        {
+            "src": "!yh>b!u",
+            "tgt": "em7t7"
+        },
+        {
+            "src": "8kikvy",
+            "tgt": "yjf"
+        },
+        {
+            "src": "ak<x@tsmx",
+            "tgt": "ikvy"
+        },
+        {
+            "src": "5x0nvb",
+            "tgt": "i7vxe"
+        },
+        {
+            "src": "grunvr",
+            "tgt": "?us?1r"
+        },
+        {
+            "src": "620vl",
+            "tgt": "kak<x"
+        },
+        {
+            "src": "djswz",
+            "tgt": "pv7eb"
+        },
+        {
+            "src": "",
+            "tgt": "sq862"
+        },
+        {
+            "src": "v0we2yg",
+            "tgt": "djswzsq8"
+        },
+        {
+            "src": "jrytnh?f",
+            "tgt": "h>b!u0v"
+        },
+        {
+            "src": "25m6bl7",
+            "tgt": "0vl@t"
+        },
+        {
+            "src": "?kjkz",
+            "tgt": "yg62"
+        },
+        {
+            "src": "akt6>q",
+            "tgt": "7smxgru"
+        },
+        {
+            "src": "wh0jzlr7",
+            "tgt": "lak"
+        },
+        {
+            "src": "",
+            "tgt": "tnh?f0w"
+        },
+        {
+            "src": "fd61y<",
+            "tgt": "lr7t"
+        },
+        {
+            "src": "!jc",
+            "tgt": "kz25"
+        },
+        {
+            "src": "1i4jykkv4",
+            "tgt": "ytnh?f"
+        },
+        {
+            "src": "gnnaw",
+            "tgt": "b!y"
+        },
+        {
+            "src": "2>2",
+            "tgt": "bwh0j"
+        },
+        {
+            "src": "qb9zibmb",
+            "tgt": "5x0nvg"
+        },
+        {
+            "src": "s?r",
+            "tgt": "vri"
+        },
+        {
+            "src": "",
+            "tgt": "1i4jykkv4"
+        },
+        {
+            "src": "61a2y901d",
+            "tgt": "y<6>qns?"
+        },
+        {
+            "src": "bdt!9dbpf",
+            "tgt": "2?kj!"
+        },
+        {
+            "src": "3qhvdcz1",
+            "tgt": "ibmbnnaw"
+        },
+        {
+            "src": "8vay!d",
+            "tgt": "m62>2"
+        },
+        {
+            "src": "@mzp!iy6y",
+            "tgt": "bpfjc8"
+        },
+        {
+            "src": "",
+            "tgt": "y!dzfd616"
+        },
+        {
+            "src": "25j?gu2e?",
+            "tgt": "!dzfd"
+        },
+        {
+            "src": "4!@e5",
+            "tgt": "p!iy6yvay"
+        },
+        {
+            "src": "e?hk",
+            "tgt": "901"
+        },
+        {
+            "src": "1cpp@x",
+            "tgt": "@mz4!@e5"
+        },
+        {
+            "src": "nh5lomtex",
+            "tgt": "qb9"
+        },
+        {
+            "src": "zvftel?7",
+            "tgt": "!9d1c"
+        },
+        {
+            "src": "diwzb",
+            "tgt": "dr<"
+        },
+        {
+            "src": ">ly>jsf?",
+            "tgt": "i4j"
+        },
+        {
+            "src": "b4u!cpv",
+            "tgt": "e?6161"
+        },
+        {
+            "src": "8>xvej",
+            "tgt": "cz1jr"
+        },
+        {
+            "src": "",
+            "tgt": "@x25j?gu"
+        },
+        {
+            "src": "b7ry9",
+            "tgt": "hvd8>xvej"
+        },
+        {
+            "src": "5gaj0",
+            "tgt": "25j?"
+        },
+        {
+            "src": "s0ic<",
+            "tgt": "z3qb7ry91"
+        },
+        {
+            "src": "",
+            "tgt": "diwzb"
+        },
+        {
+            "src": "js0drx",
+            "tgt": "f?ykkv40w"
+        },
+        {
+            "src": "4ps?",
+            "tgt": "xs0ic<>l"
+        },
+        {
+            "src": "tx>9ef",
+            "tgt": "s0dr"
+        },
+        {
+            "src": "7ha",
+            "tgt": "fxebdtz"
+        },
+        {
+            "src": "qabt>sx?w",
+            "tgt": "ye?h"
+        },
+        {
+            "src": "cix",
+            "tgt": "4ps?"
+        },
+        {
+            "src": "um4ye",
+            "tgt": "tx>9e7hav"
+        },
+        {
+            "src": "vcm9dnqps",
+            "tgt": "sx?wkd"
+        },
+        {
+            "src": "",
+            "tgt": "tel?"
+        },
+        {
+            "src": "szfcmg",
+            "tgt": "2qab"
+        },
+        {
+            "src": "@<@v9q",
+            "tgt": "mtec"
+        },
+        {
+            "src": "4p9huyg",
+            "tgt": "el?7"
+        },
+        {
+            "src": "0gs",
+            "tgt": "zbd"
+        },
+        {
+            "src": "0hpdswcr",
+            "tgt": "@v9qixy"
+        },
+        {
+            "src": "e8n!",
+            "tgt": "asz"
+        }
+    ]
+}

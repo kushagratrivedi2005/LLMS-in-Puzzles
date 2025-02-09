@@ -1,0 +1,26 @@
+{
+    "initial_string": "c?>1?1?1?1?1?ig1bfaig1bfaig1bfac1??>1??>1??>1?ig1bfaig1bfaig1bfaig1bfaifc?",
+    "problem_id": "057",
+    "transitions": [
+        {
+            "src": "1?",
+            "tgt": ""
+        },
+        {
+            "src": "?>",
+            "tgt": "1?"
+        },
+        {
+            "src": "c",
+            "tgt": "?>"
+        },
+        {
+            "src": "ifc?",
+            "tgt": "c"
+        },
+        {
+            "src": "g1bfac",
+            "tgt": "fc?"
+        }
+    ]
+}

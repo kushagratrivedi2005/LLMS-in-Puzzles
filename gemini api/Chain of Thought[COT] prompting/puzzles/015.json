@@ -1,0 +1,18 @@
+{
+    "initial_string": "bbijjcagibijjcagibhgagibijjc",
+    "problem_id": "015",
+    "transitions": [
+        {
+            "src": "bbhg",
+            "tgt": ""
+        },
+        {
+            "src": "agi",
+            "tgt": "b"
+        },
+        {
+            "src": "ijjc",
+            "tgt": "hg"
+        }
+    ]
+}

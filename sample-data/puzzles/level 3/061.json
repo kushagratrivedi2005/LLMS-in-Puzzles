@@ -1,0 +1,66 @@
+{
+    "initial_string": "?dg<ccicb2?dg<ccicb2jcjacf0",
+    "problem_id": "061",
+    "transitions": [
+        {
+            "src": "b<c",
+            "tgt": ""
+        },
+        {
+            "src": "cg",
+            "tgt": "b<c"
+        },
+        {
+            "src": "cicb2",
+            "tgt": "cg"
+        },
+        {
+            "src": "?dg",
+            "tgt": "b"
+        },
+        {
+            "src": "gaagd",
+            "tgt": "cic?dg"
+        },
+        {
+            "src": "h",
+            "tgt": "agd"
+        },
+        {
+            "src": "biadeg",
+            "tgt": "gah2"
+        },
+        {
+            "src": "ca1d",
+            "tgt": "biad"
+        },
+        {
+            "src": "eeha?",
+            "tgt": "deg"
+        },
+        {
+            "src": "2",
+            "tgt": "ha"
+        },
+        {
+            "src": "a",
+            "tgt": "a1ee2?"
+        },
+        {
+            "src": "c0h",
+            "tgt": "ca"
+        },
+        {
+            "src": "fgjb",
+            "tgt": "h"
+        },
+        {
+            "src": "af0",
+            "tgt": "jb"
+        },
+        {
+            "src": "gjcjac",
+            "tgt": "0fga"
+        }
+    ]
+}

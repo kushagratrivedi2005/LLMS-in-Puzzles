@@ -1,0 +1,22 @@
+{
+    "initial_string": "ckockockockorckod>onionicko",
+    "problem_id": "065",
+    "transitions": [
+        {
+            "src": "oni",
+            "tgt": ""
+        },
+        {
+            "src": "d>",
+            "tgt": "oni"
+        },
+        {
+            "src": "r",
+            "tgt": "d>"
+        },
+        {
+            "src": "cko",
+            "tgt": "r"
+        }
+    ]
+}

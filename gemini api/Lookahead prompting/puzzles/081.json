@@ -1,0 +1,126 @@
+{
+    "initial_string": "o1w9?498rnhrnhvmo8ig2uup8mt@??y21rk0p8ixjup8mtmt1i7x49940pqmt1ik98vmoq@??y21rb7x49?498rnhy7etawmyzulwmyzulwmyzulv!n9ne!pni9m??hr?g>!kt40p5ty6stmt1i4mt1i@fhzpmfhzpmfhzpmfhzpmfhzpmfhzpmfhzpmfhzpmfhzpm940p8ig2uup8mtmt1i",
+    "problem_id": "081",
+    "transitions": [
+        {
+            "src": "wmyzul",
+            "tgt": ""
+        },
+        {
+            "src": "rnh",
+            "tgt": "wmyzul"
+        },
+        {
+            "src": "y7eta",
+            "tgt": "rnh"
+        },
+        {
+            "src": "o1w9?498",
+            "tgt": "y7eta"
+        },
+        {
+            "src": "0>@ui!is",
+            "tgt": "o1w"
+        },
+        {
+            "src": "k",
+            "tgt": "4"
+        },
+        {
+            "src": "",
+            "tgt": "@ui!is9?"
+        },
+        {
+            "src": "r21bp@yc9",
+            "tgt": "ui!is9"
+        },
+        {
+            "src": "vmoq@??y",
+            "tgt": "0>@r"
+        },
+        {
+            "src": "9bk",
+            "tgt": "?k"
+        },
+        {
+            "src": "fx4",
+            "tgt": "@yc"
+        },
+        {
+            "src": "rb7",
+            "tgt": "bpf"
+        },
+        {
+            "src": "",
+            "tgt": "499b"
+        },
+        {
+            "src": "@fhzpm",
+            "tgt": "@"
+        },
+        {
+            "src": "0kv@",
+            "tgt": "7x499bk9"
+        },
+        {
+            "src": "",
+            "tgt": "o"
+        },
+        {
+            "src": "q<atv9b",
+            "tgt": "21rb0kv@8"
+        },
+        {
+            "src": "8ixjup8mt",
+            "tgt": "q"
+        },
+        {
+            "src": "rqv9b@",
+            "tgt": "atv"
+        },
+        {
+            "src": "g2u",
+            "tgt": "xj"
+        },
+        {
+            "src": "5ty6s",
+            "tgt": "8ig2uup8m"
+        },
+        {
+            "src": "j6qe>t",
+            "tgt": "mo5t"
+        },
+        {
+            "src": "!>gaou8ed",
+            "tgt": "j6qe>ty6"
+        },
+        {
+            "src": "hd",
+            "tgt": "yq<"
+        },
+        {
+            "src": "nh962",
+            "tgt": ">gao"
+        },
+        {
+            "src": "1iryd",
+            "tgt": "h962u8ed"
+        },
+        {
+            "src": "40pqmt1i",
+            "tgt": "b"
+        },
+        {
+            "src": "z",
+            "tgt": "1iryd"
+        },
+        {
+            "src": "9ne!pni9",
+            "tgt": "zst@fhzp"
+        },
+        {
+            "src": "r?g>!ktb4",
+            "tgt": "drqv940pq"
+        }
+    ]
+}

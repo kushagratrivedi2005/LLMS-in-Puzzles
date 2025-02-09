@@ -1,0 +1,62 @@
+{
+    "initial_string": "aaabaaaababaabbbbabbabbbabbabaaababaabaabbaababbbbabbaabaabbaa",
+    "problem_id": "074",
+    "transitions": [
+        {
+            "src": "baab",
+            "tgt": ""
+        },
+        {
+            "src": "",
+            "tgt": "ba"
+        },
+        {
+            "src": "ababa",
+            "tgt": "ab"
+        },
+        {
+            "src": "",
+            "tgt": "ab"
+        },
+        {
+            "src": "a",
+            "tgt": "a"
+        },
+        {
+            "src": "abbab",
+            "tgt": "a"
+        },
+        {
+            "src": "abaa",
+            "tgt": "abba"
+        },
+        {
+            "src": "b",
+            "tgt": "aba"
+        },
+        {
+            "src": "aabbaa",
+            "tgt": "ab"
+        },
+        {
+            "src": "baaaab",
+            "tgt": "baab"
+        },
+        {
+            "src": "abaab",
+            "tgt": "aa"
+        },
+        {
+            "src": "",
+            "tgt": "baa"
+        },
+        {
+            "src": "",
+            "tgt": "aba"
+        },
+        {
+            "src": "abbbab",
+            "tgt": "ba"
+        }
+    ]
+}

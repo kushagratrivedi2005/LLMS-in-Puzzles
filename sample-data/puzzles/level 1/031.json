@@ -1,0 +1,22 @@
+{
+    "initial_string": "dd0bdd0b?db10b",
+    "problem_id": "031",
+    "transitions": [
+        {
+            "src": "dd0b",
+            "tgt": ""
+        },
+        {
+            "src": "?da",
+            "tgt": "dd"
+        },
+        {
+            "src": "?",
+            "tgt": "da0"
+        },
+        {
+            "src": "b10",
+            "tgt": "a0"
+        }
+    ]
+}
