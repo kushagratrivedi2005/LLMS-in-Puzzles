@@ -17,7 +17,7 @@ Takes in the problems and the provided solutions, and validates if the provided 
 ## ``baseline.py``
 We implement a simple baseline that searches through the solution space until the empty string is reached. This is provided so that performance of LLM can be compared with traditional methods. You are free to improve it.
 
-## Compilation and Execution
+## Compilation and Execution for test case generator
 To compile and run the `generate.cpp` file, use the following command:
 ```sh
 g++ -std=c++17 -I /opt/homebrew/include generate.cpp -o generate
@@ -26,6 +26,44 @@ After compilation, you can execute the program by running:
 ```sh
 ./generate
 ```
+
+## Directory Structure for using gemini API 
+The script expects the following folder structure:
+
+```
+/Puzzles      # Folder containing input puzzle JSON files  
+/Solutions    # Folder where output solution JSON files will be saved  
+prompting_using_gemini.py  # The main script  
+```
+
+## How to Run
+To execute the script, run the following command:
+
+```sh
+python3 prompting_using_gemini.py
+```
+
+The script will:
+
+1. Read all puzzle JSON files from the `/Puzzles` directory.
+2. Generate a structured prompt for each puzzle .
+3. Send the generated prompt to the Gemini API for solution generation.
+4. Parse the API response into a structured JSON format.
+5. Save the solution in the `/Solutions` directory with filenames corresponding to the puzzle ID.
+
+## Output Format
+Each solution file follows this JSON structure:
+
+```json
+{
+    "problem_id": "001",
+    "solution": [0, 0]
+}
+```
+
+## Notes
+- The script introduces a **delay of 1 second** between API requests to prevent hitting rate limits.
+- If any response cannot be parsed properly, an empty solution array will be stored.
 
 ## Problem Levels and Classification
 The problems are categorized into different difficulty levels based on the following scheme:
@@ -38,8 +76,14 @@ The problems are categorized into different difficulty levels based on the follo
 - **Level 5**: Problem IDs 81-87
 
 ## Directory Structure
-- **sample-data/puzzles/**: Contains all the problem statements.
-- **sample-data/solutions/**: Contains the corresponding solutions for the problems.
-- **testing/helpful_debugging**: A debugging script that was useful during development.
-- **testing/test_case_generate_wrong**: Identifies cases where the validator was malfunctioning by applying transitions that were not possible on a given string.
+- sample-data/
+  - puzzles/                # Contains all the problem statements.
+  - solutions/              # Contains the corresponding solutions for the problems.
+- testing/
+  - helpful_debugging/      # A debugging script that was useful during development.
+  - test_case_generate_wrong/ # Identifies cases where the validator was malfunctioning by applying transitions that were not possible on a given string.
+- Task1.pdf                 # Task 1 document.
+- Task2.pdf                 # Task 2 document.
+- Task3.pdf                 # Task 3 document.
+- Task4.pdf                 # Task 4 document.
 
