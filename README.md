@@ -76,7 +76,7 @@ The problems are categorized into different difficulty levels based on the follo
 ## Reports and Documentation
 A comprehensive analysis and documentation of the project is available across several reports:
 
-- **Main Report**: Detailed analysis and findings are available in [SED puzzle report.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/SED%20puzzle%20report.pdf)
+- **Main Report**: A general report is available here.For detailed report related to any task see the individual task reports only. [SED puzzle report.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/SED%20puzzle%20report.pdf)
 
 Individual task reports are also available:
 - [Task1.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/Task1.pdf)
