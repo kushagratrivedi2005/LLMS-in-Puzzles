@@ -2,8 +2,6 @@
 
 ![a demonstration of the sed puzzle](imgs/image.png)
 
-This repository contains starter code in Python for PreCog's recruitment tasks. For more details, check the task doc.
-
 # Documentation
 ## ``schema.py``
 We define the data scheme using [Pydantic](https://docs.pydantic.dev/latest/) in ``schema.py``. This prevents any data validation problems. For the most part, you can treat it as a regular Python class that you can read from/write into JSON strings. We perform some basic validation checks to prevent invalid data being processed.
@@ -73,7 +71,20 @@ The problems are categorized into different difficulty levels based on the follo
 - **Level 2**: Problem IDs 34-45, 94-100
 - **Level 3**: Problem IDs 46-64
 - **Level 4**: Problem IDs 65-80
-- **Level 5**: Problem IDs 81-87
+- **Level IMPOSSIBLE**: Problem IDs 81-87
+
+## Reports and Documentation
+A comprehensive analysis and documentation of the project is available across several reports:
+
+- **Main Report**: Detailed analysis and findings are available in [SED puzzle report.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/SED%20puzzle%20report.pdf)
+
+Individual task reports are also available:
+- [Task1.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/Task1.pdf)
+- [Task2.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/Task2.pdf)
+- [Task3.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/Task3.pdf)
+- [Task4.pdf](https://github.com/kushagratrivedi2005/LLMS-in-Puzzles/blob/main/Task4.pdf)
+
+Each task report contains specific observations and findings related to its respective component.
 
 ## Directory Structure
 - sample-data/
